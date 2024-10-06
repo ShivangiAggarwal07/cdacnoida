@@ -1,1 +1,1 @@
-print("Cdac Noida PGDAI")
+print("Cdac Noida")
